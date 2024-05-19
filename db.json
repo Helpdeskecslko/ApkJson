@@ -8,7 +8,11 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
+  "User": {
+    "Id": "ECS101",
+    "FullName": "Yogesh Sharma",
+    "Email":"Yogeshsharma@gmail.com",
+    "Password":"Ecs@123",
+    "message":"Ecs@apkLogin"
   }
 }
