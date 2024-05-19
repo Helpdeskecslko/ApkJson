@@ -1,11 +1,7 @@
 {
-  "User": [
-    {
      "Id": 101,
      "FullName": "Yogesh Sharma",
      "Email":"Yogeshsharma@gmail.com", 
      "Password":"Ecs@123",
      "message":"Ecs@apkLogin"
-    }
-  ]  
 }
