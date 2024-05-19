@@ -8,11 +8,7 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "User": {
-    "Id": "ECS101",
-    "FullName": "Yogesh Sharma",
-    "Email":"Yogeshsharma@gmail.com",
-    "Password":"Ecs@123",
-    "message":"Ecs@apkLogin"
-  }
+  "User": [
+    {"Id": "ECS101", "FullName": "Yogesh Sharma","Email":"Yogeshsharma@gmail.com",    "Password":"Ecs@123",    "message":"Ecs@apkLogin"}
+  ]
 }
